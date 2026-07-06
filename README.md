@@ -66,7 +66,7 @@ Modern Django E-commerce Website
 
 ## 🍕
 
-Pizza Mania
+PIZZA MANIA
 
 Online Pizza Ordering Website
 
@@ -82,7 +82,7 @@ Online Pizza Ordering Website
 
 ## 🏥
 
-Hospital Management System
+HOSPITAL MANAGEMENT SYSTEM
 
 ✔ Patient Management
 
