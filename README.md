@@ -12,10 +12,9 @@ Aspiring Full Stack Developer
 
 # 💫 About Me
 
-- 🎓 Computer Engineering Student
+- 🎓 INFORMATION AND COMMUNICATION TECHNOLOGY STUDENT
 - 🌱 Currently learning **Django Full Stack Development**
 - 💻 Passionate about building modern web applications
-- 🚀 Currently working on **NovaCart**
 - 📚 Learning React and REST APIs
 - ⚡ Fun Fact: I love turning ideas into real web applications.
 
