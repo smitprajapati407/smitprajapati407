@@ -31,25 +31,13 @@ Aspiring Full Stack Developer from India 🇮🇳
 
 # 📊 GitHub Stats
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smitprajapati407&show_icons=true&theme=github_dark)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=smitprajapati407&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smitprajapati407&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smitprajapati407&layout=compact&theme=github_dark)
 
 # 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=smitprajapati407&theme=tokyonight"/>
-
-</p>
-
----
+![GitHub Streak](https://streak-stats.demolab.com?user=smitprajapati407&theme=github-dark-blue)
 
 # 📈 Contribution Graph
 
