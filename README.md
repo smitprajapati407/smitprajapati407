@@ -45,7 +45,7 @@ Aspiring Full Stack Developer from India 🇮🇳
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=smitprajapati407&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=smitprajapati407&theme=tokyonight" />
 
 </p>
 
