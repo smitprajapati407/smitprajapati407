@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smit Prajapati</h1>
 
 <h3 align="center">
-Aspiring Full Stack Developer from India 🇮🇳
+Aspiring Full Stack Developer 
 </h3>
 
 <p align="center">
@@ -41,13 +41,7 @@ Aspiring Full Stack Developer from India 🇮🇳
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smitprajapati407&theme=tokyonight" />
-
-</p>
 
 # 🚀 Featured Projects
 
@@ -103,15 +97,11 @@ Hospital Management System
 
 <p align="left">
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:prajapatismit407@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
 
-</p>
 
 ---
 
