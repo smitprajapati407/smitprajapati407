@@ -46,18 +46,18 @@ Aspiring Full Stack Developer
 
 ## 🛒 NovaCart
 
-Modern Django E-commerce Website
-
-Responsive Shopify e-commerce store
-Custom Liquid theme development
-Product and collection management
-Customer authentication
-Shopping cart and secure checkout
-Product search, filtering, and sorting
-Inventory, shipping, and payment integration
-Discount and coupon functionality
-Mobile-friendly and SEO-optimized design
-Performance optimization and app integration
+* Responsive UI
+* Custom Shopify Theme
+* Product Management
+* Product Search & Filters
+* Shopping Cart
+* Secure Checkout
+* Customer Authentication
+* Order Management
+* Payment Gateway Integration
+* Inventory Management
+* Shopify Liquid Customization
+* Performance Optimization
 
 ---
 
@@ -65,16 +65,19 @@ Performance optimization and app integration
 
 PIZZA MANIA
 
-User authentication
-Dynamic pizza menu
-Pizza customization (size & toppings)
-Shopping cart
-Online ordering and checkout
-Payment integration
-Order tracking/history
-Admin dashboard
-Responsive UI
-REST API-based architecture
+* Responsive UI
+* User Authentication
+* Dynamic Pizza Menu
+* Pizza Customization
+* Shopping Cart
+* Online Order Placement
+* Secure Checkout
+* Payment Integration
+* Order Management
+* Admin Dashboard
+* REST API Integration
+* Database Management
+
 
 ---
 
@@ -82,12 +85,15 @@ REST API-based architecture
 
 HOSPITAL MANAGEMENT SYSTEM
 
-Patient management
-Doctor management
-Appointment scheduling
-Admin dashboard
-Responsive design
-CRUD operations with secure database integration
+### **Hospital Management System – Key Features**
+
+
+* Patient Management
+* Doctor Management
+* Appointment Scheduling
+* Admin Dashboard
+* Database Management
+
 ---
 
 # 🌐 Connect With Me
