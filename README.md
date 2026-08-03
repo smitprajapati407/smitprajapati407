@@ -48,19 +48,16 @@ Aspiring Full Stack Developer
 
 Modern Django E-commerce Website
 
-✔ Authentication
-
-✔ Cart
-
-✔ Wishlist
-
-✔ Orders
-
-✔ Admin Dashboard
-
-✔ Revenue Analytics
-
-✔ Invoice Download
+Responsive Shopify e-commerce store
+Custom Liquid theme development
+Product and collection management
+Customer authentication
+Shopping cart and secure checkout
+Product search, filtering, and sorting
+Inventory, shipping, and payment integration
+Discount and coupon functionality
+Mobile-friendly and SEO-optimized design
+Performance optimization and app integration
 
 ---
 
@@ -68,15 +65,16 @@ Modern Django E-commerce Website
 
 PIZZA MANIA
 
-Online Pizza Ordering Website
-
-✔ Online Ordering
-
-✔ Shopping Cart
-
-✔ Checkout
-
-✔ User Login
+User authentication
+Dynamic pizza menu
+Pizza customization (size & toppings)
+Shopping cart
+Online ordering and checkout
+Payment integration
+Order tracking/history
+Admin dashboard
+Responsive UI
+REST API-based architecture
 
 ---
 
@@ -84,12 +82,12 @@ Online Pizza Ordering Website
 
 HOSPITAL MANAGEMENT SYSTEM
 
-✔ Patient Management
-
-✔ Doctor Dashboard
-
-✔ Appointment Booking
-
+Patient management
+Doctor management
+Appointment scheduling
+Admin dashboard
+Responsive design
+CRUD operations with secure database integration
 ---
 
 # 🌐 Connect With Me
