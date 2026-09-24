@@ -61,6 +61,9 @@ NovaCart is a modern e-commerce application focused on providing a complete onli
 
 Shopify • Liquid • HTML • CSS • JavaScript
 
+
+
+
 🍕 Pizza Mania — Online Food Ordering System
 
 Pizza Mania is an online food-ordering application that allows users to browse pizzas, customize their orders, add items to a cart, and place orders through an online checkout system.
@@ -95,6 +98,9 @@ The project also includes administrative functionality for managing products, or
 
 Python • Django • HTML • CSS • JavaScript • REST APIs • Database
 
+
+
+
 🏥 Hospital Management System
 
 The Hospital Management System is a web-based application designed to manage essential hospital operations and organize information related to patients, doctors, and appointments.
@@ -118,6 +124,11 @@ The system provides separate functionality for managing hospital records and sim
 🧰 Technologies
 
 Python • Django • HTML • CSS • JavaScript • Database
+
+
+
+
+
 
 🇯🇵 日本語を勉強しています — I'm Learning Japanese!
 Japanese Language
