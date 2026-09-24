@@ -28,73 +28,87 @@ Aspiring Full Stack Developer
 
 ---
 
-# 📊 GitHub Stats
+🚀 Featured Projects
+🛒 NovaCart — E-Commerce Platform
 
-<p align="center">
+NovaCart is a modern e-commerce application focused on providing a complete online shopping experience. The project includes product discovery, customer authentication, cart management, checkout, order processing, and inventory management.
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=smitprajapati407&show_icons=true&theme=tokyonight"/>
+✨ Features
+📱 Responsive user interface
+🛍️ Product management
+🔎 Product search and filtering
+🛒 Shopping cart
+👤 Customer authentication
+💳 Secure checkout and payment integration
+📦 Order management
+📊 Inventory management
+🎨 Custom Shopify theme development
+🔧 Shopify Liquid customization
+⚡ Performance optimization
+🧰 Technologies
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smitprajapati407&layout=compact&theme=tokyonight"/>
+Shopify • Liquid • HTML • CSS • JavaScript
 
-</p>
+🍕 Pizza Mania — Online Food Ordering System
 
----
+Pizza Mania is an online food-ordering application that allows users to browse pizzas, customize their orders, add items to a cart, and place orders through an online checkout system.
 
+The project also includes administrative functionality for managing products, orders, and application data.
 
+✨ Features
+📱 Responsive UI
+👤 User authentication
+🍕 Dynamic pizza menu
+🧀 Pizza customization
+🛒 Shopping cart
+📦 Online order placement
+💳 Checkout and payment integration
+📋 Order management
+🛠️ Admin dashboard
+🔗 REST API integration
+🗄️ Database management
+🧰 Technologies
 
-# 🚀 Featured Projects
+Python • Django • HTML • CSS • JavaScript • REST APIs • Database
 
-## 🛒 NovaCart
+🏥 Hospital Management System
 
-* Responsive UI
-* Custom Shopify Theme
-* Product Management
-* Product Search & Filters
-* Shopping Cart
-* Secure Checkout
-* Customer Authentication
-* Order Management
-* Payment Gateway Integration
-* Inventory Management
-* Shopify Liquid Customization
-* Performance Optimization
+The Hospital Management System is a web-based application designed to manage essential hospital operations and organize information related to patients, doctors, and appointments.
 
----
+The system provides separate functionality for managing hospital records and simplifies the process of scheduling and maintaining appointments.
 
-## 🍕
+✨ Features
+🧑‍⚕️ Doctor management
+🧑‍🤝‍🧑 Patient management
+📅 Appointment scheduling
+📊 Admin dashboard
+🗄️ Database management
+🔐 User authentication and access management
+🧰 Technologies
 
-PIZZA MANIA
+Python • Django • HTML • CSS • JavaScript • Database
 
-* Responsive UI
-* User Authentication
-* Dynamic Pizza Menu
-* Pizza Customization
-* Shopping Cart
-* Online Order Placement
-* Secure Checkout
-* Payment Integration
-* Order Management
-* Admin Dashboard
-* REST API Integration
-* Database Management
+🇯🇵 Currently Learning
+Japanese Language
 
+I'm currently learning Japanese alongside my technical studies.
 
----
+My current focus includes:
 
-## 🏥
+📖 Japanese vocabulary
+✍️ Hiragana & Katakana
+🈶 Basic Kanji
+💬 Basic Japanese grammar and conversation
+🎌 Understanding Japanese culture and everyday expressions
 
-HOSPITAL MANAGEMENT SYSTEM
+Learning a language is another way of learning how to think differently.
 
-### **Hospital Management System – Key Features**
-
-
-* Patient Management
-* Doctor Management
-* Appointment Scheduling
-* Admin Dashboard
-* Database Management
-
----
+📚 Currently Learning & Exploring
+🐍 Advanced Python
+🌐 Django Full Stack Development
+⚛️ React
+🔗 REST APIs
+🇯🇵 Japanese Language
 
 # 🌐 Connect With Me
 
